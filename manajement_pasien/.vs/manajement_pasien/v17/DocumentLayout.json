@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|c:\\users\\msi modern\\source\\repos\\manajement_pasien\\manajement_pasien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|c:\\users\\msi modern\\source\\repos\\manajement_pasien\\manajement_pasien\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|c:\\users\\msi modern\\source\\repos\\manajement_pasien\\manajement_pasien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.cs",
+              "RelativeToolTip": "manajement_pasien\\Form1.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:46:13.215Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\FormLogin.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\FormLogin.cs [Design]",
+              "RelativeToolTip": "manajement_pasien\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:49:29.91Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.cs [Design]",
+              "RelativeToolTip": "manajement_pasien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:06:03.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\FormLogin.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\FormLogin.cs",
+              "RelativeToolTip": "manajement_pasien\\FormLogin.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:58:48.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Dashboard.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "manajement_pasien\\Dashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:32:09.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\Form1.Designer.cs",
+              "RelativeToolTip": "manajement_pasien\\Form1.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgv0sAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:10:20.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
