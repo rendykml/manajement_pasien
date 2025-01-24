@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A45/UVkG2Wc=",
+  "dgSpecHash": "jqw9r753ojs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
+  "projectFilePath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI MODERN\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\MSI MODERN\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",

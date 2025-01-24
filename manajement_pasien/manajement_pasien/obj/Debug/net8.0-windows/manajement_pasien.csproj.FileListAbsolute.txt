@@ -26,3 +26,65 @@ C:\Users\MSI MODERN\source\repos\manajement_pasien\manajement_pasien\obj\Debug\n
 C:\Users\MSI MODERN\source\repos\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
 C:\Users\MSI MODERN\source\repos\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
 C:\Users\MSI MODERN\source\repos\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.sourcelink.json
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+D:\pbo\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.sourcelink.json
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll

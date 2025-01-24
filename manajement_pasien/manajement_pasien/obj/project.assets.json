@@ -649,11 +649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
+      "projectUniqueName": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
       "projectName": "manajement_pasien",
-      "projectPath": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
+      "projectPath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
       "packagesPath": "C:\\Users\\MSI MODERN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI MODERN\\source\\repos\\manajement_pasien\\manajement_pasien\\obj\\",
+      "outputPath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI MODERN\\AppData\\Roaming\\NuGet\\NuGet.Config",
