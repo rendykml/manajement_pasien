@@ -53,7 +53,6 @@
             label1.Size = new Size(308, 35);
             label1.TabIndex = 0;
             label1.Text = "Tampilan Dashboard";
-            label1.Click += label1_Click;
             // 
             // panel5
             // 
@@ -75,7 +74,6 @@
             label2.Size = new Size(83, 35);
             label2.TabIndex = 4;
             label2.Text = "User\r\n";
-            label2.Click += label2_Click;
             // 
             // panel6
             // 
@@ -109,7 +107,6 @@
             button1.Text = "Pendaftaran";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            button1.MouseCaptureChanged += button1_Click;
             // 
             // button2
             // 
@@ -149,6 +146,7 @@
             button4.TabIndex = 8;
             button4.Text = "Jadwal Konsul";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // pictureBox1
             // 
@@ -163,7 +161,7 @@
             button5.BackColor = Color.FromArgb(255, 128, 128);
             button5.Font = new Font("Arial", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button5.ForeColor = Color.FromArgb(245, 236, 213);
-            button5.Location = new Point(621, 525);
+            button5.Location = new Point(639, 526);
             button5.Name = "button5";
             button5.RightToLeft = RightToLeft.No;
             button5.Size = new Size(166, 59);

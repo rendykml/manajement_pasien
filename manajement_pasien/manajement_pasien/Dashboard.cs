@@ -17,42 +17,32 @@ namespace manajement_pasien
             InitializeComponent();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void button5_Click(object sender, EventArgs e)
         {
+            FormLogin formLogin = new FormLogin();
 
-        }
+            // Menampilkan form login
+            formLogin.Show();
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
+            this.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void panel2_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            FormLogin formBaru = new FormLogin();
+            Pendaftaran formDaftar = new Pendaftaran();
 
             // Menampilkan form login
-            formBaru.Show();
+            formDaftar.Show();
+
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            JadwalKonsul formJadwalKonsul = new JadwalKonsul();
+
+            // Menampilkan form login
+            formJadwalKonsul.Show();
 
             this.Hide();
         }

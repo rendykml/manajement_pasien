@@ -88,3 +88,5 @@ D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Deb
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
+D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
