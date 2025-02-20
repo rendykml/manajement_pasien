@@ -28,24 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Pendaftaran));
             panel1 = new Panel();
-            cmbDokter = new ComboBox();
+            Tanggal = new DateTimePicker();
+            label7 = new Label();
+            txtKesehatan = new TextBox();
+            txtDiastolik = new TextBox();
+            txtSistolik = new TextBox();
             btnSimpan = new Button();
             label2 = new Label();
             cmbJenisKelamin = new ComboBox();
             label5 = new Label();
-            Tanggal = new DateTimePicker();
             txtAlamat = new TextBox();
             labelinput = new Label();
             txtKeluhan = new TextBox();
-            label8 = new Label();
             label4 = new Label();
             txtNama = new TextBox();
             label6 = new Label();
             txtUmur = new TextBox();
             label1 = new Label();
-            txtJam = new TextBox();
-            label7 = new Label();
             label3 = new Label();
             btnKembali = new Button();
             panel1.SuspendLayout();
@@ -54,23 +55,23 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(87, 142, 126);
-            panel1.Controls.Add(cmbDokter);
+            panel1.Controls.Add(Tanggal);
+            panel1.Controls.Add(label7);
+            panel1.Controls.Add(txtKesehatan);
+            panel1.Controls.Add(txtDiastolik);
+            panel1.Controls.Add(txtSistolik);
             panel1.Controls.Add(btnSimpan);
             panel1.Controls.Add(label2);
             panel1.Controls.Add(cmbJenisKelamin);
             panel1.Controls.Add(label5);
-            panel1.Controls.Add(Tanggal);
             panel1.Controls.Add(txtAlamat);
             panel1.Controls.Add(labelinput);
             panel1.Controls.Add(txtKeluhan);
-            panel1.Controls.Add(label8);
             panel1.Controls.Add(label4);
             panel1.Controls.Add(txtNama);
             panel1.Controls.Add(label6);
             panel1.Controls.Add(txtUmur);
             panel1.Controls.Add(label1);
-            panel1.Controls.Add(txtJam);
-            panel1.Controls.Add(label7);
             panel1.Controls.Add(label3);
             panel1.Location = new Point(14, 16);
             panel1.Margin = new Padding(3, 4, 3, 4);
@@ -78,19 +79,51 @@
             panel1.Size = new Size(345, 496);
             panel1.TabIndex = 0;
             // 
-            // cmbDokter
+            // Tanggal
             // 
-            cmbDokter.FormattingEnabled = true;
-            cmbDokter.Items.AddRange(new object[] { "Dokter 1", "Dokter 2", "Dokter 3" });
-            cmbDokter.Location = new Point(189, 353);
-            cmbDokter.Margin = new Padding(3, 4, 3, 4);
-            cmbDokter.Name = "cmbDokter";
-            cmbDokter.Size = new Size(139, 28);
-            cmbDokter.TabIndex = 24;
+            Tanggal.Location = new Point(24, 464);
+            Tanggal.Name = "Tanggal";
+            Tanggal.Size = new Size(10, 27);
+            Tanggal.TabIndex = 28;
+            Tanggal.Visible = false;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.ForeColor = Color.FromArgb(255, 250, 236);
+            label7.Location = new Point(23, 318);
+            label7.Name = "label7";
+            label7.Size = new Size(105, 20);
+            label7.TabIndex = 27;
+            label7.Text = "Tekanan darah";
+            // 
+            // txtKesehatan
+            // 
+            txtKesehatan.Location = new Point(3, 466);
+            txtKesehatan.Name = "txtKesehatan";
+            txtKesehatan.Size = new Size(15, 27);
+            txtKesehatan.TabIndex = 26;
+            txtKesehatan.Visible = false;
+            // 
+            // txtDiastolik
+            // 
+            txtDiastolik.Location = new Point(182, 344);
+            txtDiastolik.Name = "txtDiastolik";
+            txtDiastolik.PlaceholderText = "Diastolik";
+            txtDiastolik.Size = new Size(145, 27);
+            txtDiastolik.TabIndex = 25;
+            // 
+            // txtSistolik
+            // 
+            txtSistolik.Location = new Point(23, 344);
+            txtSistolik.Name = "txtSistolik";
+            txtSistolik.PlaceholderText = "Sistolik";
+            txtSistolik.Size = new Size(144, 27);
+            txtSistolik.TabIndex = 24;
             // 
             // btnSimpan
             // 
-            btnSimpan.Location = new Point(115, 440);
+            btnSimpan.Location = new Point(104, 393);
             btnSimpan.Margin = new Padding(3, 4, 3, 4);
             btnSimpan.Name = "btnSimpan";
             btnSimpan.Size = new Size(121, 41);
@@ -128,14 +161,6 @@
             label5.TabIndex = 14;
             label5.Text = "Alamat/Kontak";
             // 
-            // Tanggal
-            // 
-            Tanggal.Location = new Point(58, 401);
-            Tanggal.Margin = new Padding(3, 4, 3, 4);
-            Tanggal.Name = "Tanggal";
-            Tanggal.Size = new Size(233, 27);
-            Tanggal.TabIndex = 21;
-            // 
             // txtAlamat
             // 
             txtAlamat.Location = new Point(23, 228);
@@ -161,16 +186,6 @@
             txtKeluhan.Name = "txtKeluhan";
             txtKeluhan.Size = new Size(305, 27);
             txtKeluhan.TabIndex = 15;
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.ForeColor = Color.FromArgb(255, 250, 236);
-            label8.Location = new Point(189, 329);
-            label8.Name = "label8";
-            label8.Size = new Size(54, 20);
-            label8.TabIndex = 20;
-            label8.Text = "Dokter";
             // 
             // label4
             // 
@@ -218,24 +233,6 @@
             label1.TabIndex = 6;
             label1.Text = "Nama";
             // 
-            // txtJam
-            // 
-            txtJam.Location = new Point(23, 353);
-            txtJam.Margin = new Padding(3, 4, 3, 4);
-            txtJam.Name = "txtJam";
-            txtJam.Size = new Size(142, 27);
-            txtJam.TabIndex = 17;
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.ForeColor = Color.FromArgb(255, 250, 236);
-            label7.Location = new Point(23, 329);
-            label7.Name = "label7";
-            label7.Size = new Size(106, 20);
-            label7.TabIndex = 18;
-            label7.Text = "Jam Konsultasi";
-            // 
             // label3
             // 
             label3.AutoSize = true;
@@ -266,6 +263,7 @@
             Controls.Add(btnKembali);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(3, 4, 3, 4);
             Name = "Pendaftaran";
             StartPosition = FormStartPosition.CenterScreen;
@@ -280,8 +278,6 @@
         private Panel panel1;
         private Label labelinput;
         private TextBox txtNama;
-        private Label label7;
-        private TextBox txtJam;
         private Label label6;
         private TextBox txtKeluhan;
         private Label label5;
@@ -290,12 +286,14 @@
         private TextBox txtUmur;
         private Label label3;
         private Label label2;
-        private Label label8;
         private ComboBox cmbJenisKelamin;
-        private DateTimePicker Tanggal;
         private Button btnSimpan;
         protected internal Label label1;
         private Button btnKembali;
-        private ComboBox cmbDokter;
+        private TextBox txtDiastolik;
+        private TextBox txtSistolik;
+        private Label label7;
+        private TextBox txtKesehatan;
+        private DateTimePicker Tanggal;
     }
 }

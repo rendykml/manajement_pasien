@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj": {}
+    "D:\\pbo_tugas akhir\\manajement_pasien_final\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj": {}
   },
   "projects": {
-    "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj": {
+    "D:\\pbo_tugas akhir\\manajement_pasien_final\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
+        "projectUniqueName": "D:\\pbo_tugas akhir\\manajement_pasien_final\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
         "projectName": "manajement_pasien",
-        "projectPath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
+        "projectPath": "D:\\pbo_tugas akhir\\manajement_pasien_final\\manajement_pasien\\manajement_pasien\\manajement_pasien\\manajement_pasien.csproj",
         "packagesPath": "C:\\Users\\MSI MODERN\\.nuget\\packages\\",
-        "outputPath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\obj\\",
+        "outputPath": "D:\\pbo_tugas akhir\\manajement_pasien_final\\manajement_pasien\\manajement_pasien\\manajement_pasien\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI MODERN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,9 +49,29 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.9, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.2.0, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "WinForms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "itext7.bouncy-castle-adapter": {
+              "target": "Package",
+              "version": "[9.1.0, )"
             }
           },
           "imports": [

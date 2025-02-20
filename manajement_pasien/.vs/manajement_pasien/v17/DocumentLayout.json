@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\jadwalkonsul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\pendaftaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\inputpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\inputpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\inputpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|solutionrelative:manajement_pasien\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84951800-D01A-4B8E-BFC7-FEB3E60CF617}|manajement_pasien\\manajement_pasien.csproj|d:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Form1.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\Form1.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\FormLogin.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\FormLogin.cs",
@@ -96,8 +96,7 @@
               "RelativeToolTip": "manajement_pasien\\FormLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T15:49:29.91Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -105,20 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JadwalKonsul.cs",
-              "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.cs",
-              "RelativeDocumentMoniker": "manajement_pasien\\JadwalKonsul.cs",
-              "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.cs",
-              "RelativeToolTip": "manajement_pasien\\JadwalKonsul.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwD8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:56:34.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Pendaftaran.cs",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Pendaftaran.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\Pendaftaran.cs",
@@ -131,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JadwalKonsul.cs [Design]",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\JadwalKonsul.cs",
@@ -143,31 +129,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Dashboard.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\Dashboard.cs",
+              "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Dashboard.cs [Design]",
+              "RelativeToolTip": "manajement_pasien\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:32:09.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InputPasien.cs [Design]",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\InputPasien.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\InputPasien.cs",
               "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\InputPasien.cs [Design]",
               "RelativeToolTip": "manajement_pasien\\InputPasien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:07:48.672Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-29T16:07:48.672Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JadwalKonsul.cs",
+              "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.cs",
+              "RelativeDocumentMoniker": "manajement_pasien\\JadwalKonsul.cs",
+              "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.cs",
+              "RelativeToolTip": "manajement_pasien\\JadwalKonsul.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:56:34.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Pendaftaran.cs [Design]",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Pendaftaran.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\Pendaftaran.cs",
               "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Pendaftaran.cs [Design]",
               "RelativeToolTip": "manajement_pasien\\Pendaftaran.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T13:30:13.855Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-24T13:30:13.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JadwalKonsul.Designer.cs",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\JadwalKonsul.Designer.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\JadwalKonsul.Designer.cs",
@@ -180,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Dashboard.cs",
               "RelativeDocumentMoniker": "manajement_pasien\\Dashboard.cs",
@@ -190,18 +199,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T13:32:44.551Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Dashboard.cs",
-              "RelativeDocumentMoniker": "manajement_pasien\\Dashboard.cs",
-              "ToolTip": "D:\\pbo_tugas akhir\\manajement_pasien\\manajement_pasien\\manajement_pasien\\Dashboard.cs [Design]",
-              "RelativeToolTip": "manajement_pasien\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:32:09.014Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -226,8 +223,7 @@
               "RelativeToolTip": "manajement_pasien\\Pendaftaran.Designer.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAADgv2MAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:00:00.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T14:00:00.45Z"
             },
             {
               "$type": "Document",

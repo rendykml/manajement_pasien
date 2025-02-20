@@ -46,5 +46,23 @@ namespace manajement_pasien
 
             this.Hide();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            CetakForm CetakPdf = new CetakForm();
+
+            // Menampilkan form login
+            CetakPdf.Show();
+
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 form = new Form2();
+            // Menampilkan form grafik
+            form.Show();
+            this.Hide();
+        }
     }
 }

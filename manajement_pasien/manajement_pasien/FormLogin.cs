@@ -21,11 +21,16 @@ namespace manajement_pasien
         public FormLogin()
         {
             InitializeComponent();
+            InitializeMongo();
+            
+        }
 
+        private void InitializeMongo() 
+        {
             // Buat koneksi ke database MongoDB
             var client = new MongoClient("mongodb://localhost:27017");
             var database = client.GetDatabase("manajement_pasien");
-            _userCollection = database.GetCollection<BsonDocument>("users"); 
+            _userCollection = database.GetCollection<BsonDocument>("users");
         }
         private void buttonLogin_Click(object sender, EventArgs e)
         {

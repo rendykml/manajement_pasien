@@ -23,11 +23,15 @@ namespace manajement_pasien
         public frmRegister()
         {
             InitializeComponent();
-            // Buat koneksi ke database MongoDB
-            var client = new MongoClient("mongodb://localhost:27017"); // Sesuaikan dengan koneksi MongoDB Anda
-            var database = client.GetDatabase("manajement_pasien"); // Nama database
-            _userCollection = database.GetCollection<BsonDocument>("users"); // Nama koleksi
+            InitializeMongo();
+        }
 
+        private void InitializeMongo()
+        {
+        
+            var client = new MongoClient("mongodb://localhost:27017");
+            var database = client.GetDatabase("manajement_pasien"); 
+            _userCollection = database.GetCollection<BsonDocument>("users"); 
         }
         private void buttonRegister_Click(object sender, EventArgs e)
         {

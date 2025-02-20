@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dashboard));
             label1 = new Label();
             panel5 = new Panel();
             label2 = new Label();
@@ -58,9 +59,9 @@
             // 
             panel5.BackColor = Color.FromArgb(61, 61, 61);
             panel5.Enabled = false;
-            panel5.Location = new Point(12, 71);
+            panel5.Location = new Point(11, 71);
             panel5.Name = "panel5";
-            panel5.Size = new Size(819, 10);
+            panel5.Size = new Size(819, 11);
             panel5.TabIndex = 3;
             // 
             // label2
@@ -80,9 +81,9 @@
             panel6.BackColor = Color.FromArgb(61, 61, 61);
             panel6.Enabled = false;
             panel6.ForeColor = Color.FromArgb(61, 61, 61);
-            panel6.Location = new Point(12, 506);
+            panel6.Location = new Point(11, 507);
             panel6.Name = "panel6";
-            panel6.Size = new Size(819, 10);
+            panel6.Size = new Size(819, 11);
             panel6.TabIndex = 4;
             // 
             // panel7
@@ -91,7 +92,7 @@
             panel7.Enabled = false;
             panel7.Location = new Point(13, 19);
             panel7.Name = "panel7";
-            panel7.Size = new Size(818, 10);
+            panel7.Size = new Size(818, 11);
             panel7.TabIndex = 4;
             // 
             // button1
@@ -102,7 +103,7 @@
             button1.Location = new Point(34, 108);
             button1.Name = "button1";
             button1.RightToLeft = RightToLeft.No;
-            button1.Size = new Size(363, 166);
+            button1.Size = new Size(363, 165);
             button1.TabIndex = 5;
             button1.Text = "Pendaftaran";
             button1.UseVisualStyleBackColor = false;
@@ -113,26 +114,28 @@
             button2.BackColor = Color.FromArgb(87, 142, 126);
             button2.Font = new Font("Arial", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button2.ForeColor = Color.FromArgb(245, 236, 213);
-            button2.Location = new Point(34, 306);
+            button2.Location = new Point(34, 307);
             button2.Name = "button2";
             button2.RightToLeft = RightToLeft.No;
-            button2.Size = new Size(363, 166);
+            button2.Size = new Size(363, 165);
             button2.TabIndex = 6;
             button2.Text = "Grafik";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
             button3.BackColor = Color.FromArgb(87, 142, 126);
             button3.Font = new Font("Arial", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button3.ForeColor = Color.FromArgb(245, 236, 213);
-            button3.Location = new Point(446, 306);
+            button3.Location = new Point(446, 307);
             button3.Name = "button3";
             button3.RightToLeft = RightToLeft.No;
-            button3.Size = new Size(363, 166);
+            button3.Size = new Size(363, 165);
             button3.TabIndex = 7;
             button3.Text = "Cetak Laporan";
             button3.UseVisualStyleBackColor = false;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -142,7 +145,7 @@
             button4.Location = new Point(447, 108);
             button4.Name = "button4";
             button4.RightToLeft = RightToLeft.No;
-            button4.Size = new Size(363, 166);
+            button4.Size = new Size(363, 165);
             button4.TabIndex = 8;
             button4.Text = "Jadwal Konsul";
             button4.UseVisualStyleBackColor = false;
@@ -161,7 +164,7 @@
             button5.BackColor = Color.FromArgb(255, 128, 128);
             button5.Font = new Font("Arial", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button5.ForeColor = Color.FromArgb(245, 236, 213);
-            button5.Location = new Point(639, 526);
+            button5.Location = new Point(639, 525);
             button5.Name = "button5";
             button5.RightToLeft = RightToLeft.No;
             button5.Size = new Size(166, 59);
@@ -188,6 +191,7 @@
             Controls.Add(panel5);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Dashboard";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Dashboard";

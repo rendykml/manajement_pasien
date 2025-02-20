@@ -90,3 +90,212 @@ D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Deb
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
 D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.sourcelink.json
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+C:\Users\wilan\OneDrive\Dokumen\Semester 3\Pemrograman\Proyek pbo\manajement_pasien\ppbo 2\manajement_pasienbaru\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Form2.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MSI MODERN\Downloads\manajement_pasien-Jadwal\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.CetakForm.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.CetakForm.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Form2.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+C:\Users\wilan\Downloads\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.exe
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.deps.json
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.runtimeconfig.json
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\DnsClient.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.forms.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.io.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.layout.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.sign.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.svg.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\itext.commons.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\Snappier.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.AssemblyReference.cache
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.CetakForm.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Dashboard.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.frmRegister.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Form2.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.FormLogin.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.InputPasien.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.JadwalKonsul.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Pendaftaran.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.Properties.Resources.resources
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.GenerateResource.cache
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.GeneratedMSBuildEditorConfig.editorconfig
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfoInputs.cache
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.AssemblyInfo.cs
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.csproj.CoreCompileInputs.cache
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.sourcelink.json
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajeme.6CBC20FC.Up2Date
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\refint\manajement_pasien.dll
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.pdb
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\manajement_pasien.genruntimeconfig.cache
+D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\obj\Debug\net8.0-windows\ref\manajement_pasien.dll

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = manajement_pasien
-build_property.ProjectDir = D:\pbo_tugas akhir\manajement_pasien\manajement_pasien\manajement_pasien\
+build_property.ProjectDir = D:\pbo_tugas akhir\manajement_pasien_final\manajement_pasien\manajement_pasien\manajement_pasien\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
